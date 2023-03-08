@@ -1,0 +1,62 @@
+.padre{
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+#div1{
+    border: solid 8px royalblue;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    
+}
+#div2{
+    border: solid 8px red;
+    top:5%;
+    left:5%;
+    width: 90%;
+    height: 90%;
+    position: absolute;
+}
+#div3{
+    border: solid 8px violet;
+    top:10%;
+    left:10%;
+    width: 80%;
+    height: 80%;
+    position: absolute;
+}
+#div4{
+    border: solid 8px blueviolet;
+    top:15%;
+    left:15%;
+    width: 70%;
+    height: 70%;
+    position: absolute;
+}
+#div5{
+    border: solid 8px cyan;
+    top:20%;
+    left:20%;
+    width: 60%;
+    height: 60%;
+    position: absolute;
+} 
+#div6{
+    border: solid 8px blue;
+    top:25%;
+    left:25%;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+}
+#div7{
+    background-color: black;
+    top:30%;
+    left:30%;
+    width: 51%;
+    height: 51%;
+    position: absolute;
+}
+

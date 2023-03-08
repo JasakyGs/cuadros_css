@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#idpadre{
+    margin: 300px;
+    height: 350px;
+    width: 500px;
+    position: relative;
+    background-image:url("./HD-wallpaper-windows-minimalist-logo.jpg");
+    background-size: cover;
+    background-position: -64px;
+    left: 200px;
+    bottom: 100px;
+}
+
+#idhijo1{
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    border-width: 2px 1px 1px 2px;
+    border-style: solid;
+    border-color: black;
+}
+#idhijo2{
+    height: 50%;
+    width: 50%;
+    right: 0;
+    position: absolute;
+    border-width: 2px 2px 1px 1px;
+    border-style: solid;
+    border-color: black;
+}
+#idhijo3{
+    height: 50%;
+    width: 50%;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    border-width: 1px 1px 2px 2px;
+    border-style: solid;
+    border-color: black;
+}
+#idhijo4{
+    height: 50%;
+    width: 50%;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    border-width: 1px 2px 2px 1px;
+    border-style: solid;
+    border-color: black;
+}
+
